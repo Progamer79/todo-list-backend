@@ -1,28 +1,28 @@
 {
   "Todo List": [
     {
-      "Choice": 1,
-      "Input": "Graduate from Flatiron"
+      "id": 1,
+      "goal1": "Graduate from Flatiron"
       
     },
     {
-      "choice": 2,
-      "input": "Get A+ certified"
+      "id": 2,
+      "goal2": "Get A+ certified"
       
     },
     {
-      "choice": 3,
-      "input": "Build a really cool app"
+      "id": 3,
+      "goal3": "Build a really cool app"
      
     },
     {
-      "choice": 4,
-      "input": "Go on vacation"
+      "id": 4,
+      "goal4": "Go on vacation"
       
     },
     {
-      "choice": 5,
-      "input": "Buy a car"
+      "id": 5,
+      "it": "Buy a car"
       
     }
     
