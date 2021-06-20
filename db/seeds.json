@@ -1,9 +1,9 @@
 {
-  "todoList":[
+  "todoList": [
     {
       "id": 1,
       "goal": "Graduate from Flatiron",
-      "goalList":{
+      "goalList": {
         "task1": "Complete phase 0",
         "task2": "Complete phase 1",
         "task3": "Complete phase 2",
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "goal": "Get A+ certified",
-      "goalList":{
+      "goalList": {
         "task1": "Buy Course Book",
         "task2": "Read and study book",
         "task3": "Find a testing location",
@@ -28,38 +28,35 @@
     {
       "id": 3,
       "goal": "Build a really cool app",
-      "goalList":{
-      "task1": "Write out a roadmap",
-      "task2": "Draw an outline on how I want my app to look",
-      "task3": "Research the codes that fits best with my app",
-      "task4": "Apply codes and functions to my app",
-      "task5": "Host app online with a very good site"
+      "goalList": {
+        "task1": "Write out a roadmap",
+        "task2": "Draw an outline on how I want my app to look",
+        "task3": "Research the codes that fits best with my app",
+        "task4": "Apply codes and functions to my app",
+        "task5": "Host app online with a very good site"
       }
     },
     {
       "id": 4,
       "goal": "Go on vacation",
-      "goalList":{
+      "goalList": {
         "task1": "Plan where to go for the vacation",
         "task2": "Book a cruise",
         "task3": "Make an agenda for cruise",
         "task4": "Pack suitcase with all the essential needs"
       }
-
-      
     },
     {
       "id": 5,
       "goal": "Buy a car",
-      "goalList":{
+      "goalList": {
         "task1": "Make a list of dealerships I might want to check out",
         "task2": "Look at possible options of cars online that I might be interested in",
         "task3": "Narrow down my options of dealerships based on the type of cars I am interested in",
         "task4": "Go to dealership and inspect and test drive cars",
         "task5": "Pick the option that best that best fits my needs",
-        "task6": "Drive away in my bran new car"
-
-      } 
+        "task6": "Drive away in my brand new car"
+      }
     }
   ]
 }
