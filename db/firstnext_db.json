@@ -2,8 +2,9 @@
   "todoList": [
     {
       "id": 1,
-      "details": "Graduate from Flatiron",
+      "detail": "Graduate from Flatiron",
       "priority": 2
+      "detail 2": "Study for Network +",
     },
     {
       "id": 2,
